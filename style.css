@@ -42,11 +42,11 @@
   }
   
   .hero h4 {
-    font-size: 1.9rem;
+    font-size: 1.5rem;
   }
   
   .hero p {
-    font-size: 1.8rem;
+    font-size: 1.4rem;
   }
   
   .hero a {
@@ -103,12 +103,12 @@
   
   .home h3 {
     color: #444;
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     margin-bottom: 1rem;
   }
   
   .home p {
-    font-size: 1.9rem;
+    font-size: 1.4rem;
     color: #666;
   }
   
@@ -151,11 +151,11 @@
   }
   
   .info .alamat {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
   }
   
   .info .description {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     font-weight: 300;
   }
   
@@ -172,12 +172,12 @@
   }
   
   .info .card-body {
-    font-size: 1.8rem;
+    font-size: 1.4rem;
   }
   
   .info .card-footer {
     border-top: 1px solid #999;
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     font-weight: 300;
   }
   
@@ -204,7 +204,7 @@
   .gallery p,
   .rsvp p,
   .gifts p {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     font-weight: 300;
   }
   
